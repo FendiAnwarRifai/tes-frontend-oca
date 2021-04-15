@@ -1,5 +1,10 @@
 # tes-frontend-oca
 
+## Clone the repo
+```
+git clone https://github.com/FendiAnwarRifai/tes-frontend-oca.git
+```
+
 ## Project setup
 ```
 npm install
