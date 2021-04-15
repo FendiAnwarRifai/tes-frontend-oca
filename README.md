@@ -5,20 +5,19 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### run project
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## URL of the page accessed via local
 ```
-npm run build
+| No  |      Name       | URL                                           |
+| --- | --------------- | --------------------------------------------- |
+| 1   | Login           | http://localhost:8080/                        |
+| 2   | Home            | http://localhost:8080/i/home                  |
+| 3   | SMS Scheduller  | http://localhost:8080/i/message               |
+
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Example Desain Layout](https://www.figma.com/file/xJrxfX3bjO2aKUmzrV0PQ7/Test100620?node-id=0%3A1)
